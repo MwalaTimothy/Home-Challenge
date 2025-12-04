@@ -1,0 +1,40 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# Build and Temporary Files
+*.log
+*.tmp
+*.temp
+*.bak
+*.cache
+*.pyc
+__pycache__/
+node_modules/
+
+# Documentation Build Files
+_site/
+.jekyll-cache/
+.bundle/
+vendor/
+
+# Personal Notes
+notes.txt
+TODO.txt
+personal/
